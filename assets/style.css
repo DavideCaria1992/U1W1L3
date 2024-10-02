@@ -1,0 +1,40 @@
+body {
+    margin: 0px;
+    text-align: center;
+}
+
+header div {
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+
+.top {
+    background-color: rgba(255, 214, 152, 0.733);
+}
+
+.radius {
+    border-radius: 5%;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.645) 
+}
+
+main div p {
+    margin: 0;
+    font-size: 12px;
+}
+
+.img-source {
+    color: gray;
+}
+
+h2 {
+    border-bottom: 1px solid gray
+}
+
+.number {
+    list-style-type: none;
+}
+
+.left-border {
+    display: inline;
+    border-left: 1px solid black;
+}
